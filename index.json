@@ -1,0 +1,11 @@
+{
+  "org": "mosaicml",
+  "repo": "llm-foundry",
+  "versions": [
+    {
+      "commit": "0cdb2f42962fcf861e58b236e9bd1c9964ba99a4",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:07:52.132926+00:00"
+    }
+  ]
+}
