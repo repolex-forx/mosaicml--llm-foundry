@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mosaicml/llm-foundry/commit/0cdb2f42962fcf861e58b236e9bd1c9964ba99a4",
       "git:hexsha": "0cdb2f42962fcf861e58b236e9bd1c9964ba99a4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T15:07:52.132307+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mosaicml/llm-foundry/commit/67e61a2b07bc568f18b0de1be1521f9dd2cfb91d",
